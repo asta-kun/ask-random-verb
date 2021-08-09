@@ -1,0 +1,690 @@
+[
+  {
+    "infinitive": "be",
+    "past_simple": ["was", "were"],
+    "past_participle": "been"
+  },
+  {
+    "infinitive": "become",
+    "past_simple": "became",
+    "past_participle": "become"
+  },
+  {
+    "infinitive": "begin",
+    "past_simple": "began",
+    "past_participle": "begun"
+  },
+  {
+    "infinitive": "bring",
+    "past_simple": "brought",
+    "past_participle": "brought"
+  },
+  {
+    "infinitive": "buy",
+    "past_simple": "bought",
+    "past_participle": "bought"
+  },
+  {
+    "infinitive": "choose",
+    "past_simple": "chose",
+    "past_participle": "chosen"
+  },
+  {
+    "infinitive": "come",
+    "past_simple": "came",
+    "past_participle": "come"
+  },
+  {
+    "infinitive": "do",
+    "past_simple": "did",
+    "past_participle": "done"
+  },
+  {
+    "infinitive": "drink",
+    "past_simple": "drank",
+    "past_participle": "drunk"
+  },
+  {
+    "infinitive": "drive",
+    "past_simple": "drove",
+    "past_participle": "driven"
+  },
+  {
+    "infinitive": "tell",
+    "past_simple": "told",
+    "past_participle": "told"
+  },
+  {
+    "infinitive": "eat",
+    "past_simple": "ate",
+    "past_participle": "eaten"
+  },
+  {
+    "infinitive": "fall",
+    "past_simple": "fell",
+    "past_participle": "fallen"
+  },
+  {
+    "infinitive": "feel",
+    "past_simple": "felt",
+    "past_participle": "felt"
+  },
+  {
+    "infinitive": "find",
+    "past_simple": "found",
+    "past_participle": "found"
+  },
+  {
+    "infinitive": "fly",
+    "past_simple": "flew",
+    "past_participle": "flown"
+  },
+  {
+    "infinitive": "forget",
+    "past_simple": "forgot",
+    "past_participle": "forgotten"
+  },
+  {
+    "infinitive": "get",
+    "past_simple": "got",
+    "past_participle": ["got", "gotten"]
+  },
+  {
+    "infinitive": "give",
+    "past_simple": "gave",
+    "past_participle": "given"
+  },
+  {
+    "infinitive": "go",
+    "past_simple": "went",
+    "past_participle": "gone"
+  },
+  {
+    "infinitive": "have",
+    "past_simple": "had",
+    "past_participle": "had"
+  },
+  {
+    "infinitive": "hear",
+    "past_simple": "heard",
+    "past_participle": "heard"
+  },
+  {
+    "infinitive": "keep",
+    "past_simple": "kept",
+    "past_participle": "kept"
+  },
+  {
+    "infinitive": "know",
+    "past_simple": "knew",
+    "past_participle": "known"
+  },
+  {
+    "infinitive": "leave",
+    "past_simple": "left",
+    "past_participle": "left"
+  },
+  {
+    "infinitive": "lend",
+    "past_simple": "lent",
+    "past_participle": "lent"
+  },
+  {
+    "infinitive": "let",
+    "past_simple": "let",
+    "past_participle": "let"
+  },
+  {
+    "infinitive": "lose",
+    "past_simple": "lost",
+    "past_participle": "lost"
+  },
+  {
+    "infinitive": "make",
+    "past_simple": "made",
+    "past_participle": "made"
+  },
+  {
+    "infinitive": "meet",
+    "past_simple": "met",
+    "past_participle": "met"
+  },
+  {
+    "infinitive": "pay",
+    "past_simple": "paid",
+    "past_participle": "paid"
+  },
+  {
+    "infinitive": "put",
+    "past_simple": "put",
+    "past_participle": "put"
+  },
+  {
+    "infinitive": "read",
+    "past_simple": "read",
+    "past_participle": "read"
+  },
+  {
+    "infinitive": "run",
+    "past_simple": "ran",
+    "past_participle": "run"
+  },
+  {
+    "infinitive": "say",
+    "past_simple": "said",
+    "past_participle": "said"
+  },
+  {
+    "infinitive": "see",
+    "past_simple": "saw",
+    "past_participle": "seen"
+  },
+  {
+    "infinitive": "sell",
+    "past_simple": "sold",
+    "past_participle": "sold"
+  },
+  {
+    "infinitive": "send",
+    "past_simple": "sent",
+    "past_participle": "sent"
+  },
+  {
+    "infinitive": "sing",
+    "past_simple": "sang",
+    "past_participle": "sung"
+  },
+  {
+    "infinitive": "sit",
+    "past_simple": "sat",
+    "past_participle": "sat"
+  },
+  {
+    "infinitive": "sleep",
+    "past_simple": "slept",
+    "past_participle": "slept"
+  },
+  {
+    "infinitive": "speak",
+    "past_simple": "spoke",
+    "past_participle": "spoken"
+  },
+  {
+    "infinitive": "stand",
+    "past_simple": "stood",
+    "past_participle": "stood"
+  },
+  {
+    "infinitive": "swim",
+    "past_simple": "swam",
+    "past_participle": "swum"
+  },
+  {
+    "infinitive": "take",
+    "past_simple": "took",
+    "past_participle": "taken"
+  },
+  {
+    "infinitive": "teach",
+    "past_simple": "taught",
+    "past_participle": "taught"
+  },
+  {
+    "infinitive": "understand",
+    "past_simple": "understood",
+    "past_participle": "understood"
+  },
+  {
+    "infinitive": "wear",
+    "past_simple": "wore",
+    "past_participle": "worn"
+  },
+  {
+    "infinitive": "write",
+    "past_simple": "wrote",
+    "past_participle": "written"
+  },
+  {
+    "infinitive": "sweep",
+    "past_simple": "swept",
+    "past_participle": "swept"
+  },
+  {
+    "infinitive": "ride",
+    "past_simple": "rode",
+    "past_participle": "ridden"
+  },
+  {
+    "infinitive": "set",
+    "past_simple": "set",
+    "past_participle": "set"
+  },
+  {
+    "infinitive": "build",
+    "past_simple": "built",
+    "past_participle": "built"
+  },
+  {
+    "infinitive": "cut",
+    "past_simple": "cut",
+    "past_participle": "cut"
+  },
+  {
+    "infinitive": "grow up",
+    "past_simple": "grew up",
+    "past_participle": "grown up"
+  },
+  {
+    "infinitive": "wake up",
+    "past_simple": "woke up",
+    "past_participle": "woken up"
+  },
+  {
+    "infinitive": "shoot",
+    "past_simple": "shot",
+    "past_participle": "shot"
+  },
+  {
+    "infinitive": "begin",
+    "past_simple": "began",
+    "past_participle": "begun"
+  },
+  {
+    "infinitive": "win",
+    "past_simple": "won",
+    "past_participle": "won"
+  },
+  {
+    "infinitive": "sew",
+    "past_simple": "sewed",
+    "past_participle": ["sewed", "sewn"]
+  },
+  {
+    "infinitive": "hurt",
+    "past_simple": "hurt",
+    "past_participle": "hurt"
+  },
+  {
+    "infinitive": "forbid",
+    "past_simple": "forbade",
+    "past_participle": "forbidden"
+  },
+  {
+    "infinitive": "steal",
+    "past_simple": "stole",
+    "past_participle": "stolen"
+  },
+  {
+    "infinitive": "break",
+    "past_simple": "broke",
+    "past_participle": "broken"
+  },
+  {
+    "infinitive": "shake",
+    "past_simple": "shook",
+    "past_participle": "shaken"
+  },
+  {
+    "infinitive": "dream",
+    "past_simple": ["dreamt", "dreamed"],
+    "past_participle": ["dreamt", "dreamed"]
+  },
+  {
+    "infinitive": "hold",
+    "past_simple": "held",
+    "past_participle": "held"
+  },
+  {
+    "infinitive": "throw",
+    "past_simple": "threw",
+    "past_participle": "thrown"
+  },
+  {
+    "infinitive": "arise",
+    "past_simple": "arose",
+    "past_participle": "arisen"
+  },
+  {
+    "infinitive": "awake",
+    "past_simple": "awoke",
+    "past_participle": "awoke"
+  },
+  {
+    "infinitive": "bear",
+    "past_simple": "bore",
+    "past_participle": "borne"
+  },
+  {
+    "infinitive": "beat",
+    "past_simple": "beat",
+    "past_participle": "beaten"
+  },
+  {
+    "infinitive": "bend",
+    "past_simple": "bent",
+    "past_participle": "bent"
+  },
+  {
+    "infinitive": "bet",
+    "past_simple": "bet",
+    "past_participle": "bet"
+  },
+  {
+    "infinitive": "bind",
+    "past_simple": "bound",
+    "past_participle": "bound"
+  },
+  {
+    "infinitive": "bite",
+    "past_simple": "bit",
+    "past_participle": "bitten"
+  },
+  {
+    "infinitive": "bleed",
+    "past_simple": "bled",
+    "past_participle": "bled"
+  },
+  {
+    "infinitive": "blow",
+    "past_simple": "blew",
+    "past_participle": "blown"
+  },
+  {
+    "infinitive": "burst",
+    "past_simple": "burst",
+    "past_participle": "burst"
+  },
+  {
+    "infinitive": "catch",
+    "past_simple": "caught",
+    "past_participle": "caught"
+  },
+  {
+    "infinitive": "cost",
+    "past_simple": "cost",
+    "past_participle": "cost"
+  },
+  {
+    "infinitive": "creep",
+    "past_simple": "crept",
+    "past_participle": "crept"
+  },
+  {
+    "infinitive": "deal",
+    "past_simple": "dealt",
+    "past_participle": "dealt"
+  },
+  {
+    "infinitive": "dig",
+    "past_simple": "dug",
+    "past_participle": "dug"
+  },
+  {
+    "infinitive": "dive",
+    "past_simple": ["dived", "dove"],
+    "past_participle": "dived"
+  },
+  {
+    "infinitive": "draw",
+    "past_simple": "drew",
+    "past_participle": "drawn"
+  },
+  {
+    "infinitive": "feed",
+    "past_simple": "fed",
+    "past_participle": "fed"
+  },
+  {
+    "infinitive": "fight",
+    "past_simple": "fought",
+    "past_participle": "fought"
+  },
+  {
+    "infinitive": "fit",
+    "past_simple": ["fitted", "fit"],
+    "past_participle": ["fitted", "fit"]
+  },
+  {
+    "infinitive": "flee",
+    "past_simple": "fled",
+    "past_participle": "fled"
+  },
+  {
+    "infinitive": "fling",
+    "past_simple": "flung",
+    "past_participle": "flung"
+  },
+  {
+    "infinitive": "forgive",
+    "past_simple": "forgave",
+    "past_participle": "forgiven"
+  },
+  {
+    "infinitive": "freeze",
+    "past_simple": "froze",
+    "past_participle": "frozen"
+  },
+  {
+    "infinitive": "hand",
+    "past_simple": "hanged",
+    "past_participle": "hanged"
+  },
+  {
+    "infinitive": "hide",
+    "past_simple": "hid",
+    "past_participle": "hidden"
+  },
+  {
+    "infinitive": "hit",
+    "past_simple": "hit",
+    "past_participle": "hit"
+  },
+  {
+    "infinitive": "kneel",
+    "past_simple": ["kneeled", "knelt"],
+    "past_participle": ["kneeled", "knelt"]
+  },
+  {
+    "infinitive": "knit",
+    "past_simple": "knitted",
+    "past_participle": "knitted"
+  },
+  {
+    "infinitive": "lay",
+    "past_simple": "laid",
+    "past_participle": "laid"
+  },
+  {
+    "infinitive": "lead",
+    "past_simple": "led",
+    "past_participle": "led"
+  },
+  {
+    "infinitive": "lie",
+    "past_simple": "lied",
+    "past_participle": "lied"
+  },
+  {
+    "infinitive": "light",
+    "past_simple": ["lighted", "lit"],
+    "past_participle": ["lighted", "lit"]
+  },
+  {
+    "infinitive": "mean",
+    "past_simple": "meant",
+    "past_participle": "meant"
+  },
+  {
+    "infinitive": "plead",
+    "past_simple": "pleaded",
+    "past_participle": "pled"
+  },
+  {
+    "infinitive": "prove",
+    "past_simple": "proved",
+    "past_participle": ["proved", "proven"]
+  },
+  {
+    "infinitive": "quit",
+    "past_simple": "quit",
+    "past_participle": "quit"
+  },
+  {
+    "infinitive": "ring",
+    "past_simple": "rang",
+    "past_participle": "rung"
+  },
+  {
+    "infinitive": "rise",
+    "past_simple": "rose",
+    "past_participle": "risen"
+  },
+  {
+    "infinitive": "seek",
+    "past_simple": "sought",
+    "past_participle": "sought"
+  },
+  {
+    "infinitive": "shine",
+    "past_simple": "shone",
+    "past_participle": "shone",
+    "description": "glow"
+  },
+  {
+    "infinitive": "shine",
+    "past_simple": "shined",
+    "past_participle": "shined",
+    "description": "rub"
+  },
+  {
+    "infinitive": "show",
+    "past_simple": "showed",
+    "past_participle": ["showed", "shhown"]
+  },
+  {
+    "infinitive": "shrink",
+    "past_simple": "shrank",
+    "past_participle": "shrunk"
+  },
+  {
+    "infinitive": "shut",
+    "past_simple": "shut",
+    "past_participle": "shut"
+  },
+  {
+    "infinitive": "sink",
+    "past_simple": "sank",
+    "past_participle": "sunk"
+  },
+  {
+    "infinitive": "slay",
+    "past_simple": "slew",
+    "past_participle": "slain"
+  },
+  {
+    "infinitive": "slide",
+    "past_simple": "slid",
+    "past_participle": "slid"
+  },
+  {
+    "infinitive": "slit",
+    "past_simple": "slit",
+    "past_participle": "slit"
+  },
+  {
+    "infinitive": "spin",
+    "past_simple": "spun",
+    "past_participle": "spun"
+  },
+  {
+    "infinitive": "split",
+    "past_simple": "split",
+    "past_participle": "split"
+  },
+  {
+    "infinitive": "spread",
+    "past_simple": "spread",
+    "past_participle": "spread"
+  },
+  {
+    "infinitive": "spring",
+    "past_simple": "sprang",
+    "past_participle": "sprung"
+  },
+  {
+    "infinitive": "stick",
+    "past_simple": "stuck",
+    "past_participle": "stuck"
+  },
+  {
+    "infinitive": "sting",
+    "past_simple": "stung",
+    "past_participle": "stung"
+  },
+  {
+    "infinitive": "stink",
+    "past_simple": "stank",
+    "past_participle": "stunk"
+  },
+  {
+    "infinitive": "stride",
+    "past_simple": "strode",
+    "past_participle": "stridden"
+  },
+  {
+    "infinitive": "strike",
+    "past_simple": "struck",
+    "past_participle": "struck",
+    "description": "hit"
+  },
+  {
+    "infinitive": "string",
+    "past_simple": "strung",
+    "past_participle": "strung"
+  },
+  {
+    "infinitive": "swear",
+    "past_simple": "swore",
+    "past_participle": "sworn"
+  },
+  {
+    "infinitive": "swell",
+    "past_simple": "swelled",
+    "past_participle": "swollen"
+  },
+  {
+    "infinitive": "swing",
+    "past_simple": "swing",
+    "past_participle": "swung"
+  },
+  {
+    "infinitive": "tear",
+    "past_simple": "tore",
+    "past_participle": "torn"
+  },
+  {
+    "infinitive": "wed",
+    "past_simple": "wed",
+    "past_participle": "wed"
+  },
+  {
+    "infinitive": "weep",
+    "past_simple": "wept",
+    "past_participle": "wept"
+  },
+  {
+    "infinitive": "welcome",
+    "past_simple": "welcomed",
+    "past_participle": "welcomed"
+  },
+  {
+    "infinitive": "wet",
+    "past_simple": "wet",
+    "past_participle": "wet"
+  },
+  {
+    "infinitive": "wring",
+    "past_simple": "wrung",
+    "past_participle": "wrung"
+  }
+]
