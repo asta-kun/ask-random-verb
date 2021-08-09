@@ -3,7 +3,8 @@ from lib.core.utils.get_verbs import get_verbs
 from lib.core.utils.parse_arguments import get_arguments
 from pydash.collections import includes
 from termcolor import colored
-from pydash.strings import capitalize, upper_case
+from pydash.strings import capitalize, upper_case, join
+from pydash.predicates import is_list
 
 available_actions = [
     {
@@ -39,23 +40,27 @@ def main():
         
         # select a random tense of available options
         option = verb[action['options'][random(0, len(action['options']) - 1)]]
+        if is_list(option): option = join(option, '/')
         beautiful_option = colored(capitalize(option), 'red', attrs=['reverse', 'blink', 'bold'])
         
         beautiful_ask = colored(capitalize(action['ask']), 'red', attrs=['blink', 'bold'])
         
+        description = ''
+        if hasattr(verb, 'description'): description = ' (%s)' % verb['description']
+        
         # ask user for input
-        question = '\nWhat is the %s of %s?: ' % (beautiful_ask, beautiful_option, )
-        answer = None
+        question = '\nWhat is the %s of %s?%s: ' % (beautiful_ask, beautiful_option, description, )
         
-        available_answers = []
+        available_answers = verb[action['tense']]
         
-        # if is_array
+        if not is_list(available_answers):
+            available_answers = [available_answers]
         
         while True:
             print(question)
             answer = input().strip()
            
-            if answer != verb[action['tense']]:
+            if not includes(available_answers, answer):
                 print(colored(upper_case('INCORRECT!!'), 'red', attrs=['reverse', 'blink', 'bold']))
             else:
                 print(colored(upper_case('CORRECT!!'), 'green', attrs=['reverse', 'blink', 'bold']))
